@@ -1,4 +1,4 @@
-# instsport
+# Inst Sport
 
 A small game made in flutter.
 
